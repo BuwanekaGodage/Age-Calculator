@@ -1,2 +1,2 @@
 # Age-Calculator
-Simple age calculator
+This is a Simple age calculator that i code for fun
