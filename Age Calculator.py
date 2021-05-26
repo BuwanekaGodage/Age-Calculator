@@ -1,4 +1,4 @@
-
+#This is to calculate your time left to stay alive aprox
 
 print("Please enter your Name and your age")
 name = input('Name:')
